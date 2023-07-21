@@ -10,9 +10,9 @@
   <a href="https://www.linkedin.com/in/aryamansinghchandrawat/" target="blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://instagram.com/@aryaman.asc" target="blank">
+<!--   <a href="https://instagram.com/@aryaman.asc" target="blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt ="Instagram" />
-  </a>
+  </a> -->
   <a href="mailto:singharyaman357@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
