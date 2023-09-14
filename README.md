@@ -4,7 +4,7 @@
 <!-- Socials Links -->
 <h2 align="left">Connect with me:</h2>
 <div align="left">
-  <a href="https://twitter.com/singharyaman357" target="blank">
+  <a href="https://twitter.com/aryamansinghh" target="blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.linkedin.com/in/aryamansinghchandrawat/" target="blank">
