@@ -32,11 +32,4 @@
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />	
 </div>
 
-<!-- GitHub Stats -->
-<div>
-  <h2>Stats📈</h2>
-  <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aryamangithub&show_icons=true&locale=en" alt="GitHub Stats" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryamangithub&" alt="GitHub Streak" />
-  </p>
-</div>
+
